@@ -7,10 +7,9 @@ The dataset contains 5000 images of Pokémon species, of varying sizes and resol
 
 ## Results
 **VGG16 Model**
-Accuracy: 87.47%
-Test Loss: 0.3756
+- Accuracy: 87.47%
+- Test Loss: 0.3756
 
-
-** MobileNet Model**
-Accuracy: 91.17%
-Test Loss: 0.8192
+**MobileNet Model**
+- Accuracy: 91.17%
+- Test Loss: 0.8192
